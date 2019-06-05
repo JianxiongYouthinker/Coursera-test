@@ -1,0 +1,33 @@
+.visible-xs {
+	text-align: center;
+	background-color: lightyellow;
+	width: 100% 100%;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.navbar-nav {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.navbar-brand {
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+.text-center {
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+.Chicken {
+	text-align: center;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.container {
+	background-color: grey;
+	width: 80%;
+}
